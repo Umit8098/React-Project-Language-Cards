@@ -1,70 +1,117 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center">Tour Places</h1>
 
-In the project directory, you can run:
 
-### `yarn start`
+<div align="center">
+  <h3>
+    <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
+      Demo
+    </a>
+     | 
+    <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
+      Project
+    </a>
+ 
+  </h3>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of Contents
 
-### `yarn test`
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Description](#description)
+- [Project Skeleton](#project-skeleton)
+- [Built With](#built-with)
+- [How To Use](#how-to-use)
+- [About This Project](#about-this-project)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## Overview
+- Tour Places
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Project 001 Snapshot](tour-project.gif)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Description
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Project aims to create a tour places app.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Project Skeleton
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+Tour Places Project
+|
+|----readme.md   
+SOLUTION
+├── public
+│     └── index.html
+├── src
+│    ├── components
+│    │       ├── cards
+│    │       │     ├── Card.scss
+│    │       │     └── Card.js
+│    │       ├── header
+│    │       │     ├── Header.scss
+│    │       │     └── Header.js
+│    │       ├── header
+│    │       │     ├── Header.scss
+│    │       │     └── Header.js
+│    │       └── footer
+│    │             ├── Footer.scss
+│    │             └── Navbar.js
+│    ├── helper
+│    │       └── data.js
+│    ├── App.js
+│    ├── App.scss
+│    ├── index.js
+│    └── index.css
+├── package.json
+└── yarn.lock
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Built With
 
-## Learn More
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+- React
+- SASS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## How To Use
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- This is an example, please update according to your application -->
 
-### Code Splitting
+To clone and run this application, you'll need [Git](https://github.com/Umit8098/React_Proj_Tour_Places.git)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+```bash
+# Clone this repository
+$ git clone https://github.com/Umit8098/React_Proj_Tour_Places.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+$ yarn  
+$ yarn start 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+$ or
 
-### Advanced Configuration
+$ npm install
+$ npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## About This Project
+- IOS Calculator
 
-### Deployment
+## Acknowledgements
+- [Clarusway](https://clarusway.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Contact
 
-### `yarn build` fails to minify
+<!-- - Website [your-website.com](https://{your-web-site-link}) -->
+- GitHub [@Umit8098](https://github.com/Umit8098)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Linkedin [@umit-arat](https://linkedin.com/in/umit-arat/)
+<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
