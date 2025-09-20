@@ -5,11 +5,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
+    <a href="https://umit8098.github.io/React-Project-Language-Cards/">
       Demo
     </a>
      | 
-    <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
+    <a href="https://umit8098.github.io/React-Project-Language-Cards/">
       Project
     </a>
  
