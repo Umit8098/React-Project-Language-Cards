@@ -33,14 +33,14 @@
 ## Overview
 - Language Cards
 
-![Project 001 Snapshot](tour-project.gif)
+![Project gif](Language-Card.gif)
 
 ---
 
 
 ## Description
 
-Project aims to create a tour places app.
+??????
 
 ## Project Skeleton
 
