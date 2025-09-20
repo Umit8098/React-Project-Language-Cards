@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Tour Places</h1>
+<h1 align="center">Language Cards</h1>
 
 
 <div align="center">
