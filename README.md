@@ -1,68 +1,71 @@
 
-<h1 align="center">Language Cards</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Component-Based-Architecture-success" />
+  <img src="https://img.shields.io/badge/Educational-Project-informational" />
+</p>
+
+<h1 align="center">🗂️ Language Cards</h1>
+
+<p align="center">
+A React application that displays programming languages as interactive cards using reusable components and props.
+</p>
 
 <div align="center">
   <h3>
     <a href="https://umit8098.github.io/React-Project-Language-Cards/">
-      Demo
+      🖥️ Live Demo
     </a>
      | 
-    <a href="https://umit8098.github.io/React-Project-Language-Cards/">
-      Project
+    <a href="https://github.com/Umit8098/React-Project-Language-Cards.git">
+      📂 Repository
     </a>
   </h3>
 </div>
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Overview](#overview)
-- [Description](#description)
-- [Features](#features)
-- [Project Skeleton](#project-skeleton)
-- [Built With](#built-with)
-- [How To Use](#how-to-use)
-- [About This Project](#about-this-project)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-
----
-
-## Overview
-
-Language Cards is a simple React application that displays programming languages as interactive cards.  
-Each card contains a language’s **name**, **logo**, and a short **description**.
-
 ![Project gif](Language-Card.gif)
 
----
+## 📚 Navigation
+- [✨ Overview](#-overview)
+- [📖 Description](#-description)
+- [🚀 Features](#-features)
+- [🗂️ Project Skeleton](#️-project-skeleton)
+- [🛠️ Built With](#️-built-with)
+- [⚡ How To Use](#-how-to-use)
+- [📌 About This Project](#-about-this-project)
+- [🙏 Acknowledgements](#-acknowledgements)
+- [📬 Contact](#-contact)
 
-## Description
 
-Language Cards is a React-based application that displays different programming languages in an elegant card layout.  
-Each card contains the language’s **name**, **logo**, and a short **description**.  
+## ✨ Overview
 
-This project was built to practice and demonstrate React fundamentals such as:  
-- Creating and using reusable components  
-- Passing props between components  
-- Mapping through arrays of data  
-- Basic styling with CSS/SCSS  
+**Language Cards** is a simple React project that showcases programming languages in a clean and interactive card layout.
 
-It’s a simple yet effective project for learning and showcasing React basics.  
+Each card displays a language’s **name**, **logo**, and **short description**, making the project ideal for practicing React fundamentals such as components, props, and data-driven UI rendering.
 
----
 
-## Features
+## 📖 Description
 
-- 📚 Displays programming languages as cards  
-- 🎨 Stylish and responsive layout  
-- ⚛️ Built with React components and props  
-- 🔄 Data-driven design (cards generated from `data.js`)  
-- 🧩 Easy-to-understand project structure  
+This project was built to demonstrate core React concepts including:
 
----
+- Creating reusable components
+- Passing data via props
+- Rendering components dynamically using `map()`
+- Organizing project structure for clarity
 
-## Project Skeleton
+The application uses a static data source and focuses on **UI structure and React logic**, rather than complex state management.
+
+## 🚀 Features
+
+- 📚 Displays programming languages as cards
+- ⚛️ Component-based React architecture
+- 🔄 Dynamic rendering from data file
+- 🧩 Reusable and readable components
+- 🎨 Simple and clean UI design
+- 🎯 Beginner-friendly React project
+
+## 🗂️ Project Skeleton
 
 ```
 Tour Places Project
@@ -100,47 +103,45 @@ SOLUTION
 
 ---
 
-## Built With
+## 🛠️ Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-- React
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3 / SCSS** 
 
----
 
-## How To Use
-
-<!-- This is an example, please update according to your application -->
-
-To clone and run this application, you'll need [Git](https://github.com/Umit8098/React-Project-Language-Cards.git)
-
+## ⚡ How To Use
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/Umit8098/React-Project-Language-Cards.git
+# Clone the repository
+git clone https://github.com/Umit8098/React-Project-Language-Cards.git
 
+# Install dependencies
+yarn
+# or
+npm install
 
-$ yarn  
-$ yarn start 
-
-$ or
-
-$ npm install
-$ npm start
+# Start the development server
+yarn start
+# or
+npm start
 ```
 
----
 
-## About This Project
-- Educational Purpose
 
----
+## 📌 About This Project
+This project was developed for educational purposes to strengthen:
+  - React component structure
+  - Props usage and data flow
+  - Dynamic UI rendering
+  - Clean and maintainable frontend code
 
-## Acknowledgements
+## 🙏 Acknowledgements
 - [Clarusway](https://clarusway.com/)
 
----
 
-## Contact
+## 📬 Contact
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
 - GitHub [@Umit8098](https://github.com/Umit8098)
