@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Component-Based-Architecture-success" />
   <img src="https://img.shields.io/badge/Educational-Project-informational" />
 </p>
 
